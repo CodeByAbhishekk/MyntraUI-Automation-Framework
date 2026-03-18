@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+    <configuration>
+
+        <!-- Theme of the report: DARK or STANDARD -->
+        <theme>DARK</theme>
+
+        <!-- Title shown on browser tab -->
+        <documentTitle>Myntra Automation Report</documentTitle>
+
+        <!-- Main heading inside report -->
+        <reportName>UI Test Execution Report</reportName>
+
+        <!-- Encoding -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Timestamp format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+
+    </configuration>
+
+    <system>
+
+        <!-- Additional info shown in report -->
+        <info name="Project">Myntra Automation</info>
+        <info name="Tester">Your Name</info>
+        <info name="Environment">QA</info>
+        <info name="Browser">Chrome</info>
+
+    </system>
+</extentreports>

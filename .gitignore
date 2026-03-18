@@ -1,0 +1,33 @@
+/target/
+# TestNG reports
+test-output/
+
+# Extent reports
+reports/
+
+# Screenshots
+screenshots/
+
+# Logs
+logs/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Screenshots
+screenshots/
+
+# Reports
+reports/
+test-output/
+
